@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CustomerMaintenance.Customer">
+    <Position X="1.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACBAAAAgAAABAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.CustomerDB">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAIAAAAAAAAAAAAEABAAAAQAAAARAAA=</HashCode>
+      <FileName>CustomerDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.CustomerList">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="CustomerMaintenance.CustomerList.ChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CustomerList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAIABAAAAAAAATAEABAQAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomerList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.frmAddRetail" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQABACAAABEAAACAAEACAIBAgJAAAAAAAAIAAAA=</HashCode>
+      <FileName>frmAddRetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.frmAddWholesale" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAUABACAAABEAAACAAEACAIBAAJAAAAAAAAIAAAA=</HashCode>
+      <FileName>frmAddWholesale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.frmCustomers" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADBECAAABAAAACAAAQCBCAAAAACAQAAAAAAAQQ=</HashCode>
+      <FileName>frmCustomers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Program" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.RetailCustomer">
+    <Position X="2.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RetailCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Validator">
+    <Position X="7.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAEAAQEAAAAABAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.WholesaleCustomer">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>WholesaleCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Properties.Resources" Collapsed="true">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomerMaintenance.Properties.Settings" Collapsed="true">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
